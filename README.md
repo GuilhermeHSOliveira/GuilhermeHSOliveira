@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou trabalhando com QA
-- 🌱 Estudando PHP
+- 🌱 Estudando Ruby
 
  <div align="center">
   <a href="https://github.com/GuilhermeHSOliveira">
