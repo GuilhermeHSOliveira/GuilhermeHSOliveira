@@ -1,8 +1,8 @@
 ### Olá, sou Guilherme Henrique. 
 
 
-- 🔭 Estou trabalhando com QA
-- 🌱 Estudando Ruby
+- 🔭 Estou trabalhando como QA
+- 🌱 Estudando Python e Selenium
 
  <div align="center">
   <a href="https://github.com/GuilhermeHSOliveira">
